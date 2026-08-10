@@ -1,21 +1,21 @@
-## Olá, eu sou o Lucas 👋
+DEv Build, construindo projetos reais de automação e integração de APIs — com foco particular em rodar IA localmente, sem depender de serviços pagos.
 
-Estou em transição de carreira para a área de tecnologia, aprendendo desenvolvimento na prática e construindo projetos reais para resolver problemas.
-
-- No momento estou focado em **Python**, automação e integração de APIs
-- Tenho interesse especial em **IA rodando localmente** (sem depender de serviços pagos)
-- Aprendendo: desenvolvimento backend, Git/GitHub e boas práticas
-- Uso **Linux** no dia a dia e gosto de entender como as coisas funcionam por baixo
-- Objetivo: conquistar minha primeira oportunidade na área tech
+- 🔭 Trabalhando no **PR Review Bot**, um bot que revisa Pull Requests automaticamente usando um modelo de IA rodando 100% local
+- 🌱 Expandindo pra **programação de sistemas em C**, buscando entender o que acontece por baixo das abstrações de alto nível
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas
+- 💬 Perguntem sobre Python, automação com Flask, ou IA local com Ollama
+- 🎯 Buscando minha primeira oportunidade como desenvolvedor
 
 ### Projeto em destaque
 
-**[pr-review-bot](https://github.com/Thanatos46810/pr-review-bot)** — Um revisor de código automático que usa IA local para analisar Pull Requests do GitHub. Lê as mudanças de uma PR e gera uma análise técnica, tudo offline e sem custo.
+**[pr-review-bot](https://github.com/Thanatos46810/pr-review-bot)**
+Bot que reage automaticamente a Pull Requests do GitHub: recebe o evento via webhook (com validação de assinatura HMAC), analisa o diff com um modelo de IA rodando localmente via Ollama, posta a revisão como comentário no PR e notifica via Telegram — tudo offline, sem custo de API.
 
 ### Tecnologias e ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
