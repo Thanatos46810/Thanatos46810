@@ -1,7 +1,7 @@
 DEv Build, construindo projetos reais de automação e integração de APIs — com foco particular em rodar IA localmente, sem depender de serviços pagos.
 
 - 🔭 Trabalhando no **PR Review Bot**, um bot que revisa Pull Requests automaticamente usando um modelo de IA rodando 100% local
-- 🌱 Expandindo pra **programação de sistemas em C** Java**, Javascript**, React**, MySQL**, buscando entender o que acontece por baixo das abstrações de alto nível
+- 🌱 Expandindo pra **programação de sistemas em C, Java, Javascript, React, MySQL, buscando entender o que acontece por baixo das abstrações de alto nível
 - 🎓 Análise e Desenvolvimento de Sistemas e Muito Youtube
 - 💬 Perguntem sobre Os Projetos, automação com Flask, ou IA
 - 🎯 Buscando minha primeira oportunidade como desenvolvedor
